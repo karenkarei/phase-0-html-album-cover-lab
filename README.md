@@ -31,13 +31,7 @@ design of the album cover:
 
 In the industry, front-end developers are typically given specs just like this
 from the product team and then asked to write the code to make a website look
-just like the spec. Today, you're the developer and Pharrell is the product
-team.
-
-### Use SOURCE.md
-
-Pharrell has provided us with the text for the album and all the legal
-mumbo-jumbo to give credit where credit is due. You can find that text in
+just like the spec. Today, you're the developer and Pharrell is the pmumbo-jumbo to give credit where credit is due. You can find that text in
 `SOURCE.md`. Again, this is a typical industry standard workflow, where the
 developers are given a copy for the site from the product team.
 
